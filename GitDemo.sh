@@ -3,7 +3,7 @@ git --version
 sudo apt-get install git -y
 git config --global user.email "your email" ##### modify here
 git config --global user.name "your username" ###### modify here
-sudo nano /home/jasona2/.gitconfig      ###### modify your home directory
+sudo nano /home/yourhomedirectory/.gitconfig      ###### modify your home directory
 ############git initial#############################################
 pwd 
 cd /home/jasona2/Desktop/gitTest ###### modify the working directory
